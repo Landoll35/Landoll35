@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Landoll35
-- 👀 I’m interested in ...Building user friendly data programs
-- 🌱 I’m currently learning ...Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Andrew Landoll
+- 👀 I’m interested in creating stories with data
+- 🌱 I’m currently learning as much as I can about everything I can
+- 📫 How to reach me ... ajlandoll@yahoo.com
 
 <!---
 Landoll35/Landoll35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
